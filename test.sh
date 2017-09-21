@@ -1,0 +1,1 @@
+mvn clean test -Denvironment.type=develop --settings settings.xml
